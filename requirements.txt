@@ -19,5 +19,6 @@ humanize
 torch
 torchvision
 torchaudio
+scikit-image
 
 
